@@ -7,7 +7,7 @@ public class Array_Sort {
     	 int[] numbers = {5, 3, 1, 4, 2};
     	 
     	 //printing the array before sorting
-    	 System.out.println("Before sorting: " + Arrays.toString(number));
+    	 System.out.println("Before sorting: " + Arrays.toString(numbers));
     	 
     	 //sorting the array
     	 Arrays.sort(numbers);
